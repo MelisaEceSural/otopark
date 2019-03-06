@@ -1,0 +1,12 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\bin\Debug\20181224_OOP_OtoPark.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\bin\Debug\20181224_OOP_OtoPark.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\bin\Debug\20181224_OOP_OtoPark.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\20181224_OOP_OtoPark.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\_20181224_OOP_OtoPark.Properties.Resources.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\20181224_OOP_OtoPark.csproj.GenerateResource.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\20181224_OOP_OtoPark.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\20181224_OOP_OtoPark.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\20181224_OOP_OtoPark.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\_20181224_OOP_OtoPark.RaporForm.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\_20181224_OOP_OtoPark.AnaForm.resources
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181224_OOP_OtoPark\20181224_OOP_OtoPark\obj\Debug\_20181224_OOP_OtoPark.GirisForm.resources
